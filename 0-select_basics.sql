@@ -1,3 +1,5 @@
+-- Tutorial 0: SELECT basics
+
 --show the population of Germany
 SELECT population FROM world WHERE name = 'Germany'
 
